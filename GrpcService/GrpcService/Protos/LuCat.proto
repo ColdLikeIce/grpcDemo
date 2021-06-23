@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+import "google/protobuf/empty.proto";
+package LuCat; //定义包名
+
+//定义服务
+service LuCat{
+    //定义吸猫方法
+	rpc SuckingCat(SuckingCatRequest) returns(SuckingCatResult);
+	rpc SuckingdCat(SuckingCatRequest) returns(SuckingCatResult);
+}
+message SuckingCatRequest{
+	string Name=1;
+}
+message SuckingCatResult{
+	string message=1;
+}

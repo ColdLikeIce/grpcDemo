@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcGreeterClient";
+import "google/protobuf/empty.proto";
+package LuDog; //定义包名
+
+//定义服务
+service LuDog{
+    //定义吸猫方法
+	rpc SuckingDog(SuckingDogRequest) returns(SuckingDogResult);
+	rpc SuckingdDog(SuckingDogRequest) returns(SuckingDogResult);
+}
+message SuckingDogRequest{
+	string Name=1;
+}
+message SuckingDogResult{
+	string message=1;
+}

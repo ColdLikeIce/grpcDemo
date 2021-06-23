@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/LuCat.cs \
+obj\Debug\netcoreapp3.1\Protos/LuCatGrpc.cs: C:/Users/stone/.nuget/packages/grpc.tools/2.38.1/build/native/include/google/protobuf/empty.proto\
+ Protos/LuCat.proto

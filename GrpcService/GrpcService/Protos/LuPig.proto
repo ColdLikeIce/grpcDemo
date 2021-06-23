@@ -1,0 +1,17 @@
+syntax = "proto3";
+option csharp_namespace = "GrpcService";
+import "google/protobuf/empty.proto";
+package LuPig; //定义包名
+
+//定义服务
+service LuPig{
+    //定义吸猫方法
+	rpc SuckingPig(SuckingPigRequest) returns(SuckingPigResult);
+	rpc SuckingdPig(SuckingPigRequest) returns(SuckingPigResult);
+}
+message SuckingPigRequest{
+	string Name=1;
+}
+message SuckingPigResult{
+	string message=1;
+}

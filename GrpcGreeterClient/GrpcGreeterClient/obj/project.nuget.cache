@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hn8kUdifMmV0lrbA9kWmQ/PqAzRfSs+/wE4viKvOJQyxahwf76iJz0EFDj8pvglqLcI24DasU/z4jq7PgGR62Q==",
+  "dgSpecHash": "uY1gZHBO4YSivBvNXmQTt/XtzkCytIJ2G4D32Zcs3wZmPgct/OjQmuryGhIGebbkQWsHU1WHuK6FH9PF4prO3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stone\\source\\repos\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "projectFilePath": "C:\\Code\\Grpc\\grpcDemo\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stone\\.nuget\\packages\\google.protobuf\\3.17.3\\google.protobuf.3.17.3.nupkg.sha512",
     "C:\\Users\\stone\\.nuget\\packages\\grpc.core.api\\2.37.0\\grpc.core.api.2.37.0.nupkg.sha512",

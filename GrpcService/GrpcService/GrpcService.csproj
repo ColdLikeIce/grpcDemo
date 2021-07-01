@@ -7,7 +7,10 @@
   <ItemGroup>
     <PackageReference Include="Grpc.AspNetCore" Version="2.27.0" />
     <PackageReference Include="Grpc.HealthCheck" Version="2.38.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
     <PackageReference Include="NConsul.AspNetCore" Version="0.7.4" />
+    <ProjectReference Include="..\Hy.FantasyGrpcEFCore\Hy.FantasyGrpcEFCore.csproj" />
     <Protobuf Include="Protos\HealthCheck.proto" GrpcServices="Server" />
     <Protobuf Include="Protos\LuCat.proto" GrpcServices="Server" />
     <Protobuf Include="Protos\LuPig.proto" GrpcServices="Server" />

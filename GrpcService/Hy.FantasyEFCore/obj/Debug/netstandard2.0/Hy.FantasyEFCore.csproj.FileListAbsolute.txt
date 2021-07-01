@@ -1,0 +1,9 @@
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.csprojAssemblyReference.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.AssemblyInfoInputs.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.AssemblyInfo.cs
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.csproj.CoreCompileInputs.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\bin\Debug\netstandard2.0\Hy.FantasyEFCore.deps.json
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\bin\Debug\netstandard2.0\Hy.FantasyEFCore.dll
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\bin\Debug\netstandard2.0\Hy.FantasyEFCore.pdb
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.dll
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyEFCore\obj\Debug\netstandard2.0\Hy.FantasyEFCore.pdb

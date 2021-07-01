@@ -331,11 +331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stone\\source\\repos\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectUniqueName": "C:\\Code\\Grpc\\grpcDemo\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "projectName": "GrpcGreeterClient",
-      "projectPath": "C:\\Users\\stone\\source\\repos\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+      "projectPath": "C:\\Code\\Grpc\\grpcDemo\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
       "packagesPath": "C:\\Users\\stone\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stone\\source\\repos\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
+      "outputPath": "C:\\Code\\Grpc\\grpcDemo\\GrpcGreeterClient\\GrpcGreeterClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stone\\AppData\\Roaming\\NuGet\\NuGet.Config",

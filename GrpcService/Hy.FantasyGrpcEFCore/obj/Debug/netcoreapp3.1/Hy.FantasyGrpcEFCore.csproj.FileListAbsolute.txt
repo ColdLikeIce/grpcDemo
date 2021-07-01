@@ -1,0 +1,12 @@
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.csprojAssemblyReference.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.AssemblyInfoInputs.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.AssemblyInfo.cs
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.csproj.CoreCompileInputs.cache
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\bin\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.deps.json
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\bin\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.runtimeconfig.json
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\bin\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.runtimeconfig.dev.json
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\bin\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.dll
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\bin\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.pdb
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.dll
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.pdb
+C:\Code\Grpc\grpcDemo\GrpcService\Hy.FantasyGrpcEFCore\obj\Debug\netcoreapp3.1\Hy.FantasyGrpcEFCore.genruntimeconfig.cache
